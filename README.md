@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @d0r1nut
+- 👋 Hi, I’m Dima, Junior Sotware Developer
 - 👀 I’m interested in Python, C#, Django, Unity and computer science
-- 🌱 I’m currently learning Python and C#
-- 🤝 I’m looking to collaborate on different projects like Django websites or games in Unity
+- 🌱 I’m currently learning Python and C# and Rust
+- 🤝 I’m looking to collaborate on different projects
 - 📫 How to reach me: dimaland2k17@gmail.com
 
 <!---
